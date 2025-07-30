@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "290b51ee534e6396",
+    "type": "split",
+    "children": [
+      {
+        "id": "47b71f1aa2190c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06e2acb7fdfc55f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/常见强化学习算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常见强化学习算法"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ebb1cd3e5b0ce7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "283c225ddba778d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc27bcea07f276c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c773b145d190099",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1a5e01799d934fea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba789f15a0d7bacd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d66e17975fe6c08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be1f0067b952082",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/常见强化学习算法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 常见强化学习算法"
+            }
+          },
+          {
+            "id": "1298de4ba2fcc292",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/常见强化学习算法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 常见强化学习算法"
+            }
+          },
+          {
+            "id": "6b19676d20410523",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9cde2cf673f08c8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/常见强化学习算法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 常见强化学习算法"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "06e2acb7fdfc55f5",
+  "lastOpenFiles": [
+    "db.json",
+    "public/2025/07/30/hello-world/index.html",
+    "public/2025/07/30/常见强化学习算法/index.html",
+    "public/2025/07/30/常见强化学习算法",
+    "public/2025/07/30/hello-world",
+    "public/2025/07/30",
+    "public/2025/07",
+    "public/2025",
+    "public/js/totop.js",
+    "public/js/smartresize.js",
+    "public/js/share.js",
+    "public/img/wechat.svg",
+    "public/img/paypal.svg",
+    "public/img/like.svg",
+    "public/img/github.svg",
+    "public/img/avatar.png",
+    "public/img/bitcoin.svg",
+    "public/img/alipay.svg",
+    "node_modules/sass/node_modules/chokidar/README.md",
+    "node_modules/sass/node_modules/readdirp/README.md",
+    "node_modules/sass/README.md",
+    "node_modules/@parcel/watcher-win32-x64/README.md",
+    "node_modules/@parcel/watcher/README.md",
+    "node_modules/node-addon-api/tools/README.md",
+    "node_modules/node-addon-api/README.md",
+    "node_modules/node-addon-api/LICENSE.md",
+    "node_modules/detect-libc/README.md",
+    "node_modules/source-map-js/README.md",
+    "node_modules/immutable/README.md",
+    "node_modules/hexo-renderer-sass-next/readme.md",
+    "node_modules/@types/trusted-types/README.md",
+    "node_modules/source-map/README.md",
+    "node_modules/pug/README.md",
+    "node_modules/pug/History.md",
+    "node_modules/void-elements/README.md",
+    "node_modules/constantinople/README.md",
+    "node_modules/@babel/types/README.md",
+    "node_modules/@babel/parser/README.md",
+    "node_modules/@babel/parser/CHANGELOG.md",
+    "node_modules/pug-strip-comments/LICENSE.md",
+    "node_modules/pug-strip-comments/CHANGELOG.md",
+    "node_modules/call-bound/CHANGELOG.md",
+    "node_modules/pug-attrs/README.md",
+    "themes/maupassant/source/img/paypal.svg",
+    "themes/maupassant/source/img/github.svg",
+    "themes/maupassant/source/img/wechat.svg"
+  ]
+}
